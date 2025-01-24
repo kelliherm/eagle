@@ -1,5 +1,16 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6f6db36e-6719-4c34-b76f-67e5f8fda511")
+	(paper "USLetter")
+	(title_block
+		(title "Eagle Flight Computer")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
